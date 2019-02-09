@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MANDATOR';
+    src: url('fonts/MANDATOR.eot');
+    src: url('fonts/MANDATOR.eot') format('embedded-opentype'),
+         url('fonts/MANDATOR.woff2') format('woff2'),
+         url('fonts/MANDATOR.woff') format('woff'),
+         url('fonts/MANDATOR.ttf') format('truetype'),
+         url('fonts/MANDATOR.svg#MANDATOR') format('svg');
+}

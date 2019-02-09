@@ -1,0 +1,62 @@
+header{
+    padding-top: 25px;
+    padding-bottom: 12px;
+    background-color: rgba(0,0,0,0.65);
+}
+header .logo{
+    float: left;
+}
+header .btn{
+    float: right;
+    display: inline-block;
+    min-width: 170px;
+    background-color: red;
+    line-height: 42px;
+    text-align: center;
+    border-radius: 3px;
+    margin-left: 25px;
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+header .dark{
+    background-color: #252525;
+}
+header .silver{
+    background-color: #464646;
+}
+
+.container {
+    max-width: 1170px;
+    margin: auto;
+}
+.container:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+header .silver:before{
+    background-image: url("../images/log in.png");
+    content: "";
+    display: inline-block;
+    background-size: cover;
+    width: 16px;
+    height: 17px;
+}
+header .dark:before{
+    background-image: url("../images/online store.png");
+    content: "";
+    display: inline-block;
+    background-size: cover;
+    width: 19px;
+    height: 18px;
+}
+header .red:before{
+    background-image: url("../images/sign up.png");
+    content: "";
+    display: inline-block;
+    background-size: cover;
+    width: 17px;
+    height: 17px;
+}
