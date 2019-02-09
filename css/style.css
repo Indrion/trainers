@@ -60,3 +60,9 @@ header .red:before{
     width: 17px;
     height: 17px;
 }
+.red_cube{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
