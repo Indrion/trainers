@@ -78,3 +78,9 @@ header .red:before{
     background-color: gold;
     margin: auto;
 }
+.pink_cube{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: auto;
+}
