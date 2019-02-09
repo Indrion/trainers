@@ -72,3 +72,9 @@ header .red:before{
     background-color: green;
     margin: auto;
 }
+.gold_cube{
+    width: 100px;
+    height: 100px;
+    background-color: gold;
+    margin: auto;
+}
